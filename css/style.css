@@ -1,0 +1,29 @@
+html, body{
+  margin:0;
+}
+
+
+#container{
+  width:80%;
+  margin:0 auto;
+}
+#header{
+
+}
+
+#content{
+
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.bar-image{
+  width:24%;
+}
+
+.bar-image img{
+  width:100%;
+}
